@@ -16,15 +16,15 @@ To prove this controversy, I wanted to make two models. One with unique keywords
 #### Common Themes
 There are many themes that correspond with one another:
 
-The ring bearer/ The chosen one
-Gandalf the Grey/ Albus Dumbledore
-Sauron the Deceiver/ Voldemort
-The ring/ The horcruxes
-Nazgul/ The dementors
-Gollum/ The Elves
-Shelob/ Aragog
-Mirror of Galadriel/ Mirror of Erised-Pensieve
-Dead Marshes/ Inferi
+The ring bearer/ The chosen one,
+Gandalf the Grey/ Albus Dumbledore,
+Sauron the Deceiver/ Voldemort,
+The ring/ The horcruxes,
+Nazgul/ The dementors,
+Gollum/ The Elves,
+Shelob/ Aragog,
+Mirror of Galadriel/ Mirror of Erised-Pensieve,
+Dead Marshes/ Inferi,
 The power of the ring/ Legilimens.
 There are more than those listed, but these are the words I used mainly for unique keywords.
 
