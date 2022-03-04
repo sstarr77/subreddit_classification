@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-
 
 # Did JK Rowling take from JRR Tolkien?
 ## NLP with Reddit
