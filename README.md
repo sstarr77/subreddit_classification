@@ -25,7 +25,8 @@ Gollum/ The Elves
 Shelob/ Aragog
 Mirror of Galadriel/ Mirror of Erised-Pensieve
 Dead Marshes/ Inferi
-The power of the ring/ Legilimens
+The power of the ring/ Legilimens.
+There are more than those listed, but these are the words I used mainly for unique keywords.
 
 ---
 
