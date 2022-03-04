@@ -43,4 +43,4 @@ I observed that when taking out the keywords, the model failed to fit. This may 
 
 ### Next Steps
 From here there are many avenues to explore. There is trying to improve the model trying out various models, plotting a 3D vector map of word usage to see which had the greatest weight, sentiment analysis, and model stacking. 
->>>>>>> f005651029d9a368438fd1bf7d42e35c956bfb7e
+
