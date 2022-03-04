@@ -1,7 +1,6 @@
 
 
 # Did JK Rowling take from JRR Tolkien?
----
 ## NLP with Reddit
 ---
 ### The Problem
@@ -10,7 +9,6 @@ Many people believe that JK Rowling took her ideas for Harry Potter from JRR Tol
 To prove this controversy, I wanted to make two models. One with unique keywords, and one without unique keywords. Unique keywords are words that would make it obvious to the model which subreddit a particular post came from. If the model built without the keywords did worse than the model built with the keywords, this may indicate a similarity between the material in the two books based off of their associated subreddit.
 
 ### Background
----
 #### Common Themes
 There are many themes that correspond with one another:
 
